@@ -1,12 +1,8 @@
 # components_models_neural_networks
 
-<p>This is some text in a paragraph.</p> 
-
- <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul> 
+<p>
+In this project components and models of neural networks are developed.
+</p> 
 
 <p>
 Artificial neural networks (neural networks) are inspired by biological structures like the brain. Basically they are consisting of nodes (neurons) and edges (vectors). The goal is to extract information from the input values and generate output values like predictions, pattern or structures not evident in the input values. The information inputs are transformed on the path through networks with matrice multiplications and activation functions. This makes deep learning networks as a special type of neural networks capable to handle non-linear data.
